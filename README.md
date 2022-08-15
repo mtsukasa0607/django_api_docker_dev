@@ -11,5 +11,9 @@ settings.py
 settings_local.py
 ## Start
 python manage.py runserver
+
 ## URL
+### Api
 http://127.0.0.1:8000/
+### phpMyAdmin
+http://localhost:8080/
